@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "or"; ObjectID = "3CR-Ye-Lnx"; */
+"3CR-Ye-Lnx.text" = "or";
+
+/* Class = "UILabel"; text = "Tu as atteint le nombre maximum de fantasmes pour aujourd'hui. Reviens demain pour en avoir d'autres. Tu peux aussi aller voir ta liste de matches et t'amuser."; ObjectID = "7yH-lx-s8B"; */
+"7yH-lx-s8B.text" = "Tu as atteint le nombre maximum de fantasmes pour aujourd'hui. Reviens demain pour en avoir d'autres. Tu peux aussi aller voir ta liste de matches et t'amuser.";
+
+/* Class = "UIButton"; normalTitle = "I want to spice up my love life"; ObjectID = "Bbf-IJ-uoT"; */
+"Bbf-IJ-uoT.normalTitle" = "I want to spice up my love life";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "C3S-DP-6YC"; */
+"C3S-DP-6YC.normalTitle" = "Sign Out";
+
+/* Class = "UILabel"; text = "Identification"; ObjectID = "D19-Iu-NBo"; */
+"D19-Iu-NBo.text" = "Identification";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Dlt-OH-4aB"; */
+"Dlt-OH-4aB.normalTitle" = "Sign In";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Eua-sD-S2R"; */
+"Eua-sD-S2R.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "GJz-03-vHV"; */
+"GJz-03-vHV.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "User 1"; ObjectID = "GMY-Ne-GSU"; */
+"GMY-Ne-GSU.placeholder" = "User 1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KVp-P6-SAw"; */
+"KVp-P6-SAw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Klu-vR-XID"; */
+"Klu-vR-XID.text" = "Label";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "KpC-eF-lcM"; */
+"KpC-eF-lcM.text" = "Registration";
+
+/* Class = "UILabel"; text = "I am"; ObjectID = "Lxi-xh-dIl"; */
+"Lxi-xh-dIl.text" = "I am";
+
+/* Class = "UILabel"; text = "Registration"; ObjectID = "M7n-te-n6a"; */
+"M7n-te-n6a.text" = "Registration";
+
+/* Class = "UIButton"; normalTitle = "Voir mes matches"; ObjectID = "MAn-Dt-Xl3"; */
+"MAn-Dt-Xl3.normalTitle" = "Voir mes matches";
+
+/* Class = "UILabel"; text = "Sign Out"; ObjectID = "MbL-Ku-LqE"; */
+"MbL-Ku-LqE.text" = "Sign Out";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "McU-52-1pl"; */
+"McU-52-1pl.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "O3J-uD-uQI"; */
+"O3J-uD-uQI.text" = "Spiceness";
+
+/* Class = "UILabel"; text = "Pas si vite ;)"; ObjectID = "OD0-gP-erZ"; */
+"OD0-gP-erZ.text" = "Pas si vite ;)";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "SZg-jG-n7p"; */
+"SZg-jG-n7p.text" = "Description";
+
+/* Class = "UILabel"; text = "Vous avez un commentaire, une suggestion ou une idée de fantasme ? N'hésitez pas !"; ObjectID = "a9C-3j-hSn"; */
+"a9C-3j-hSn.text" = "Vous avez un commentaire, une suggestion ou une idée de fantasme ? N'hésitez pas !";
+
+/* Class = "UILabel"; text = "Nouveau match"; ObjectID = "bMr-NA-GA0"; */
+"bMr-NA-GA0.text" = "Nouveau match";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "c5V-j0-Wwo"; */
+"c5V-j0-Wwo.normalTitle" = "Send";
+
+/* Class = "UITableViewController"; title = "Matches"; ObjectID = "gOk-jv-C6r"; */
+"gOk-jv-C6r.title" = "Matches";
+
+/* Class = "UITextField"; placeholder = "User 2"; ObjectID = "j55-LU-6Ru"; */
+"j55-LU-6Ru.placeholder" = "User 2";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "lAu-Fc-BNj"; */
+"lAu-Fc-BNj.text" = "Status";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pNA-aU-dfN"; */
+"pNA-aU-dfN.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "qjv-FP-3JG"; */
+"qjv-FP-3JG.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Already register ?"; ObjectID = "u1K-Cz-fUj"; */
+"u1K-Cz-fUj.normalTitle" = "Already register ?";
+
+/* Class = "UISegmentedControl"; vuS-MV-dHj.segmentTitles[0] = "Hétéro"; ObjectID = "vuS-MV-dHj"; */
+"vuS-MV-dHj.segmentTitles[0]" = "Hétéro";
+
+/* Class = "UISegmentedControl"; vuS-MV-dHj.segmentTitles[1] = "Lesbienne"; ObjectID = "vuS-MV-dHj"; */
+"vuS-MV-dHj.segmentTitles[1]" = "Lesbienne";
+
+/* Class = "UISegmentedControl"; vuS-MV-dHj.segmentTitles[2] = "Gay"; ObjectID = "vuS-MV-dHj"; */
+"vuS-MV-dHj.segmentTitles[2]" = "Gay";
+
+/* Class = "UILabel"; text = "Fantaisy"; ObjectID = "yzA-h4-ICF"; */
+"yzA-h4-ICF.text" = "Fantaisy";

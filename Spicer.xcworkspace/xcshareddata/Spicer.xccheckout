@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>16929C74-2355-4387-B382-5454E3C1FBFF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Spicer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB1476174A2F0F69D0AC398A8BB93B4374CFC9BC</key>
+		<string>https://github.com/Alexis-Jacob/spicer-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Spicer/Spicer.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB1476174A2F0F69D0AC398A8BB93B4374CFC9BC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Alexis-Jacob/spicer-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB1476174A2F0F69D0AC398A8BB93B4374CFC9BC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB1476174A2F0F69D0AC398A8BB93B4374CFC9BC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>spicer-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

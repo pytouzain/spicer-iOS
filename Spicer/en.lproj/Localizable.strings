@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+  Spicer
+
+  Created by Pierre-Yves on 12/03/2015.
+  Copyright (c) 2015 Spicer. All rights reserved.
+*/
+
+"New" = "New";
+
+"You swiped all the inspirations of Spicer. Come back for more tomorrow. Until then, you’ve got stuff to do ;-)" = "You swiped all the inspirations of Spicer. Come back for more tomorrow. Until then, you’ve got stuff to do ;-)";
+
+"You reach the maximum of fantasms for today. Come back tomorrow to have new fantaisies. You can also take a look at your match list and have fun." = "You reach the maximum of fantasms for today. Come back tomorrow to have new fantaisies. You can also take a look at your match list and have fun.";
+
+"It's a match" = "It's a match !";
+
+"Login" = "Login";
+
+"or" = "or";
+
+"Register" = "Register";
+
+"Registration" = "Registration";
+
+"My username" = "My username";
+
+"My partner" = "My partner";
+
+"Our password" = "Our password";
+
+"Sign Up" = "Sign Up";
+
+"Login" = "Login";
+
+"Username" = "Username";
+
+"Sign In" = "Sign In";
+
+"Parameters" = "Parameters";
+
+"Spiceness" = "Spiceness";
+
+"Send" = "Send";
+
+"Sign Out" = "Sign Out";
+
+"Have an idea, suggestion or issue with Spicer? Contact us!" = "Have an idea, suggestion or issue with Spicer? Contact us!";
+
+"To do" = "To do";
+
+"More" = "More";

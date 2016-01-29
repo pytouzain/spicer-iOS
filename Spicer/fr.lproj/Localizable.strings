@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  Spicer
+
+  Created by Pierre-Yves on 12/03/2015.
+  Copyright (c) 2015 Spicer. All rights reserved.
+*/
+
+"New" = "Nouveau";
+
+"You swiped all the inspirations of Spicer. Come back for more tomorrow. Until then, you’ve got stuff to do ;-)" = "Vous avez vu toutes les activités de Spicer. Revenez demain pour plus de nouveautés. D’ici là, vous avez de quoi faire ;-)";
+
+"You reach the maximum of fantasms for today. Come back tomorrow to have new fantaisies. You can also take a look at your match list and have fun." = "Tu as atteints le nombre maximum de fantasmes pour aujourd'hui. Reviens demain pour de nouveaux fantasmes. Tu peux aussi jeter un oeil a ta liste de matches et t'amuser.";
+
+"It's a match" = "Tu as un match";
+
+"Login" = "Se connecter";
+
+"or" = "ou";
+
+"Register" = "S'inscrire";
+
+"Registration" = "Inscription";
+
+"My username" = "Mon identifiant";
+
+"My partner" = "Mon/ma partenaire";
+
+"Our password" = "Mot de passe duo";
+
+"Sign Up" = "S'inscrire";
+
+"Login" = "Connexion";
+
+"Sign In" = "Connexion";
+
+"Parameters" = "Paramètres";
+
+"Spiceness" = "Spiceness";
+
+"Send" = "Envoyer";
+
+"Sign Out" = "Déconnexion";
+
+"Have an idea, suggestion or issue with Spicer? Contact us!" = "Vous avez une idée, suggestion ou problème avec Spicer ? Contactez-nous !";
+
+"To do" = "À faire";
+
+"More" = "En savoir plus";

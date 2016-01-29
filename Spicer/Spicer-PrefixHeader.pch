@@ -1,0 +1,18 @@
+//
+//  Spicer-PrefixHeader.pch
+//  Spicer
+//
+//  Created by Pierre-Yves on 26/11/2014.
+//  Copyright (c) 2014 Spicer. All rights reserved.
+//
+
+#ifndef Spicer_Spicer_PrefixHeader_pch
+#define Spicer_Spicer_PrefixHeader_pch
+
+#define API_BASE_URL @"http://spicer-env-stag.elasticbeanstalk.com/api"
+
+#define kSpicerColorRed     [UIColor colorWithRed:0.827 green:0.141 blue:0.141 alpha:1] /*#d32424*/
+#define kSpicerColorDarkRed [UIColor colorWithRed:0.69 green:0.157 blue:0.157 alpha:1] /*#b02828*/
+#define kSpicerColorGray    [UIColor colorWithRed:0.827 green:0.792 blue:0.792 alpha:1] /*#d3caca*/
+
+#endif
